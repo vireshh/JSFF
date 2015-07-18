@@ -13,7 +13,7 @@ public class helloBean implements Serializable {
 	hiBean hibean ;
 
 	public hiBean getHibean() {
-		return hibean;
+		return hibean ;
 	}
 
 	public void setHibean(hiBean hibean) {
